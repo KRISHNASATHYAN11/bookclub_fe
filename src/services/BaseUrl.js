@@ -1,0 +1,1 @@
+export const BaseUrl = 'https://bookclub-be-f1bw.onrender.com'
