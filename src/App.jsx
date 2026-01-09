@@ -15,11 +15,12 @@ import Loader from "./components/Loader";
 import ViewBook from "./pages/ViewBook";
 import AdminBooks from './Admin/pages/AdminBooks'
 import AdminHome from "./Admin/pages/AdminHome";
-import AdminSettings from "../Admin/pages/AdminSettings";
 import AdminCareers from "./Admin/pages/AdminCareers";
 import AdminApplications from "./Admin/pages/AdminApplications";
 import PaymentSuccess from "./components/PaymentSuccess";
 import PaymentFailure from "./components/PaymentFailure";
+import AdminSettings from "./Admin/pages/AdminSettings"
+
 
 
 function App() {
