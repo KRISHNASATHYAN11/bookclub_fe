@@ -59,7 +59,7 @@ function App() {
 
         <Route path="/*" element={<PNF />} />
       </Routes>
-      {/* <Footer /> */}
+      <Footer />
       <ToastContainer
         position="top-right"
         autoClose={5000}
